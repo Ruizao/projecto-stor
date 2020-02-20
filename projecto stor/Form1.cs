@@ -29,6 +29,7 @@ namespace projecto_stor
 
         private void Button2_Click(object sender, EventArgs e)
         {
+            richTextBox1
         }
     }
 }
